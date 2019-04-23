@@ -3,3 +3,5 @@ Esta es una generación de una nube de puntos en R, para posteriormente converti
 
 La parte de la generación de la malla ayudó <www.bq.com> y su documento GUÍA DE POST-PROCESADO DE LA
 NUBE DE PUNTOS
+
+Y posupuesto de aqui toma la foto <https://www.nasa.gov/sites/default/files/thumbnails/image/blackhole.png>
